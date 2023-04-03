@@ -1,0 +1,296 @@
+body {
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    /*Optional*/
+    line-height: 1.5;
+    /*Optional*/
+    font-weight: 900;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+
+}
+
+p {
+    color: #000000;
+
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+#title {
+    background-image: url(https://wallpapercave.com/wp/wp6262702.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+    color: rgb(0, 0, 0);
+}
+
+
+.navbar {
+    padding: 0 0 0rem;
+    color: #7d2752;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #7d2752;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+    color: #7d2752;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: 300;
+    color: #7d2752;
+}
+
+/* Contact me BUTTON*/
+.contact-button {
+    margin: 5% 3% 5% 27%;
+}
+
+.btn {
+    background: #00ffbf;
+    background-image: -webkit-linear-gradient(top, #4b4c4c, #222222);
+    background-image: -moz-linear-gradient(top, #4b4c4c, #222222);
+    background-image: -ms-linear-gradient(top, #4b4c4c, #222222);
+    background-image: -o-linear-gradient(top, #4b4c4c, #222222);
+    background-image: linear-gradient(to bottom, #4b4c4c, #222222);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    text-shadow: 4px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 27px;
+    padding: 6px 20px 9px 20px;
+    text-decoration: none;
+    margin: 5% 3% 5% 25%;
+
+}
+
+.btn:hover {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #000000);
+    background-image: -moz-linear-gradient(top, #000000, #000000);
+    background-image: -ms-linear-gradient(top, #000000, #000000);
+    background-image: -o-linear-gradient(top, #000000, #000000);
+    background-image: linear-gradient(to bottom, #000000, #000000);
+    text-decoration: none;
+
+}
+
+/* TITLE IMAGE */
+.titleimage {
+    width: 70%;
+    margin-left: 90px;
+    margin-top: 0;
+    /* transform: rotate(25deg); */
+    /*to the right*/
+    /*transform: rotate(-30deg); to the left*/
+    padding-bottom: 40px;
+
+}
+
+#features {
+    padding: 5% 11%;
+    background-color: #fce7ec;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-1 {
+    text-align: center;
+    padding: 5%;
+}
+
+.feature-2 {
+    text-align: center;
+    padding: 5%;
+}
+
+.feature-3 {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    font-size: 3em;
+    margin-bottom: 5%;
+    color: #ef8172;
+}
+
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.produs {
+    margin-top: 20%;
+    width: 80%;
+}
+
+.produs1 {
+    width: 30%;
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+.produs2 {
+    width: 80%;
+    padding-top: 70%;
+}
+
+.produs3 {
+    width: 100%;
+    padding-top: 45%;
+    padding-bottom: 7%;
+}
+
+.produs4 {
+    width: 40%;
+    padding-bottom: 7%;
+}
+
+.produs5 {
+    width: 80%;
+    padding-top: 30%;
+    padding-bottom: 33%;
+}
+
+.produs6 {
+    width: 30%;
+    padding-top: 30%;
+    padding-bottom: 15%;
+}
+.produs7{
+    width: 80%;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+
+
+
+
+
+/* Testimonial section */
+#testimonials {
+
+    text-align: center;
+    /* background-image: url(http://dsim.in/blog/wp-content/uploads/2016/12/macme-2.png);   */
+    color: #7d2752;
+}
+
+.testimonial-image {
+    width: 90%;
+    margin: 4px;
+    border-radius: 5%;
+    margin-bottom: 50px;
+}
+
+.testimonial-image1 {
+    width: 70%;
+    margin: 4px;
+    border-radius: 5%;
+    margin-bottom: 30px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-images {
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Pricing  */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+/* CTA */
+#cta {
+    background-image: url(https://www.dior.com/couture/var/dior/storage/images/horizon/beauty/make-up/new-makeup/epop-push-campaign-12/38970376-10-eng-HK/epop-push-campaign-1_1440_1200.jpg);
+    color: white;
+    padding: 7% 15%;
+    text-align: center;
+    background-size: 100% 100%;
+
+}
+
+#cta1 {
+
+    background-image: url(https://wallpapercave.com/wp/wp6262702.jpg);
+    padding: 5% 15%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+.cta-heading {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff3f5;
+}
+
+.message {
+    margin: 20px 10px;
+    color: #000000;
+}
+
+.foot{
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.2rem;
+
+}

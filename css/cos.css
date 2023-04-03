@@ -1,0 +1,12 @@
+
+body {
+     background: url(https://wallpapercave.com/wp/wp6262702.jpg);
+     /* background-repeat: no-repeat;  */
+    /* background: -webkit-linear-gradient(to right, #eecda3, #ef629f);
+    background: linear-gradient(to right, #eecda3, #ef629f);
+    min-height: 100vh; */
+  }
+
+  .number{
+    text-align: center;
+  }
